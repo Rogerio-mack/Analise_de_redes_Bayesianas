@@ -11,3 +11,6 @@ Introdução à análise de redes Bayesianas
 * Referência bibliográfica
 1. Scutari M, Denis JB. Bayesian networks: with examples in R. Chapman and Hall/CRC; 2021 Jul 28.
 2. Nagarajan R, Scutari M, Lèbre S. Bayesian networks in R. 2013.
+
+- Dario Ezequiel Elias    (Especialista)
+- Gizelton Pereira Alencar    (Professor USP)
